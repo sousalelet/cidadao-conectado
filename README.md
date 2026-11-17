@@ -3,9 +3,9 @@
 ## Desenvolvedores
 | RM | Nome completo |
 |----|---------------|
-| RMXXXXX | NOME COMPLETO SEM ABREVIAÇÕES |
-| RMXXXXX | NOME COMPLETO SEM ABREVIAÇÕES |
-| RMXXXXX | NOME COMPLETO SEM ABREVIAÇÕES |
+| RM561157 | Aline Ramos Alves |
+| RM561066 | Andreza de Oliveira Pereira |
+| RM559242 | Leticia de Sousa Pereira |
 
 ## Tema da Global Solution
 Desafio FIAP: **CitizenTech** (2º semestre de 2026) - tecnologias criadas a partir das necessidades reais das pessoas.
