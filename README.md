@@ -23,7 +23,7 @@ cidadania) e abre os detalhes de cada solução (localidade, público beneficiad
 ## Prints das telas
 ![Tela principal](prints/home.png)
 ![Filtro por categoria](prints/filtro.png)
-![Detalhes](prints/detalhe.png)
+![Detalhes](prints/detalhes.png)
 
 ## API utilizada
 Nenhuma API de dados. Os dados ficam em memória no repositório.
