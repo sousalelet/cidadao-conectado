@@ -21,7 +21,9 @@ cidadania) e abre os detalhes de cada solução (localidade, público beneficiad
 2. **Tela de detalhes (DetalheScreen):** aberta ao tocar em qualquer card; botão "Voltar" retorna à principal.
 
 ## Prints das telas
-(inserir prints aqui: pasta `prints/`)
+![Tela principal](prints/home.png)
+![Filtro por categoria](prints/filtro.png)
+![Detalhes](prints/detalhe.png)
 
 ## API utilizada
 Nenhuma API de dados. Os dados ficam em memória no repositório.
